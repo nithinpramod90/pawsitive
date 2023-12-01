@@ -1,6 +1,6 @@
 # pawsitive
 
-A new Flutter project.
+A Place to adopt and Donate cats and dogs
 
 ## Getting Started
 
